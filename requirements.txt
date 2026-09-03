@@ -1,0 +1,8 @@
+# Pakete für Merit_Order_Notebook_32941.ipynb
+# Erstellt und getestet mit Python 3.12
+# Installation:  pip install -r requirements.txt
+
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+ipywidgets>=8.0
